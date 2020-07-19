@@ -29,7 +29,7 @@
     "firebase": "^3.6.9",
     "format-json": "^1.0.3",
     "geolib": "^2.0.22",
-    "lodash": "^4.17.2",
+    "lodash": "^4.17.19",
     "moment": "^2.17.1",
     "querystringify": "0.0.4",
     "ramda": "^0.22.1",
